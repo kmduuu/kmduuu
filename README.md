@@ -1,5 +1,5 @@
-### 👋 안녕하세요 최고가 되려 노력하는, 김동욱의 깃허브에 오신것을 환영합니다.👋
-HELLO I'm MISTERLEE and I might be a good developer!
+### 👋 제 깃헙에 방문 해 주셔서 감사합니다~ 👋
+HELLO I'm Donguk Kim, I might be a good developer!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmduuu%2Fhit-counter&count_bg=%23EC0800&title_bg=%23000000&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmduuu&show_icons=true&theme=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmduuu&layout=compact&theme=tokyonight)
 
@@ -28,14 +27,15 @@ Here are some ideas to get you started:
 
 __Language__
   <p>
-   <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </p>
 
 **FrontEnd**
   <p>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+   <img src="https://img.shields.io/badge/JSP-61DAFB?style=for-the-badge&logo=JSP&logoColor=black"/>
   </p>
   
 **BackEnd**
