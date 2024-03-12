@@ -36,9 +36,6 @@ __Language__
 **FrontEnd**
   <p>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Zustand-6DB33F?style=for-the-badge&logo=zustand&logoColor=white">
-   <img src="https://img.shields.io/badge/swr-010101?style=for-the-badge&logo=swr&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MUI-007ACC?style=for-the-badge&logo=MUI&logoColor=white"/>
   </p>
   
 **BackEnd**
@@ -51,7 +48,6 @@ __Language__
   <p>
    <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white"/>
    <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   </p>
   
 **DataBase**
